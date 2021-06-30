@@ -1,0 +1,36 @@
+== *_User Service_*
+
+=== Nama Komponen Layanan Teknis/Pendukung
+
+_User Service_
+
+=== Nama Layanan yang Didukung
+
+Layanan yang didukung oleh komponen ini adalah :
+
+* Portal Pajak Daerah Kabupaten Brebes
+
+=== Referensi SLA (_Service Level Agreement_) yang telah disetujui
+
+Referensi _Service Level Agreement_ (SLA) untuk layanan ini merujuk ke dokumen https://github.com/tamami-bf/2021-sla-layanan-teknis/blob/master/build/sla-layanan-ti.pdf
+
+=== Kemampuan Teknis Tingkat Layanan Saat Ini
+
+Belum ada pengukuran tingkat layanan untuk komponen layanan teknis / pendukung saat ini.
+
+=== Proses Penyediaan Layanan
+
+Karena layanan ini hanya digunakan untuk internal Badan Pendapatan Daerah Kabupaten Brebes, maka proses penyediaan layanannya cukup dilakukan dengan mekanisme internal Bagian Teknologi Informasi di Badan Pendapatan Daerah Kabupaten Brebes.
+
+=== Periode Kajian Terhadap Layanan dan Laporannya
+
+Periode kajian terhadap layanan dilakukan paling cepat setiap triwulan termasuk pembuatan laporannya.
+
+=== Versi dan Tanggal Revisi 
+
+[cols="2,3", width="75%"]
+|===
+| Versi | Tanggal
+
+| 1.0 | 6 Januari 2021
+|===
